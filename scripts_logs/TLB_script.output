@@ -1,0 +1,1900 @@
+#######################################################################################
+Now running benchmark: blackscholes with configuration: 64_1_4096. 1/72
+#######################################################################################
+
+PARSEC Benchmark Suite Version 3.0-beta-20150206
+[HOOKS] PARSEC Hooks Version 1.2
+Num of Options: 65536
+Num of Runs: 100
+Size of data: 2621440
+[HOOKS] Entering ROI
+[HOOKS] Leaving ROI
+[HOOKS] Total time spent in ROI: 44.691s
+[HOOKS] Terminating
+
+#######################################################################################
+Finished benchmark: blackscholes with configuration: 64_1_4096. 1/72
+#######################################################################################
+
+
+#######################################################################################
+Now running benchmark: blackscholes with configuration: 64_2_4096. 2/72
+#######################################################################################
+
+PARSEC Benchmark Suite Version 3.0-beta-20150206
+[HOOKS] PARSEC Hooks Version 1.2
+Num of Options: 65536
+Num of Runs: 100
+Size of data: 2621440
+[HOOKS] Entering ROI
+[HOOKS] Leaving ROI
+[HOOKS] Total time spent in ROI: 45.878s
+[HOOKS] Terminating
+
+#######################################################################################
+Finished benchmark: blackscholes with configuration: 64_2_4096. 2/72
+#######################################################################################
+
+
+#######################################################################################
+Now running benchmark: blackscholes with configuration: 64_4_4096. 3/72
+#######################################################################################
+
+PARSEC Benchmark Suite Version 3.0-beta-20150206
+[HOOKS] PARSEC Hooks Version 1.2
+Num of Options: 65536
+Num of Runs: 100
+Size of data: 2621440
+[HOOKS] Entering ROI
+[HOOKS] Leaving ROI
+[HOOKS] Total time spent in ROI: 48.429s
+[HOOKS] Terminating
+
+#######################################################################################
+Finished benchmark: blackscholes with configuration: 64_4_4096. 3/72
+#######################################################################################
+
+
+#######################################################################################
+Now running benchmark: blackscholes with configuration: 64_8_4096. 4/72
+#######################################################################################
+
+PARSEC Benchmark Suite Version 3.0-beta-20150206
+[HOOKS] PARSEC Hooks Version 1.2
+Num of Options: 65536
+Num of Runs: 100
+Size of data: 2621440
+[HOOKS] Entering ROI
+[HOOKS] Leaving ROI
+[HOOKS] Total time spent in ROI: 52.109s
+[HOOKS] Terminating
+
+#######################################################################################
+Finished benchmark: blackscholes with configuration: 64_8_4096. 4/72
+#######################################################################################
+
+
+#######################################################################################
+Now running benchmark: blackscholes with configuration: 64_16_4096. 5/72
+#######################################################################################
+
+PARSEC Benchmark Suite Version 3.0-beta-20150206
+[HOOKS] PARSEC Hooks Version 1.2
+Num of Options: 65536
+Num of Runs: 100
+Size of data: 2621440
+[HOOKS] Entering ROI
+[HOOKS] Leaving ROI
+[HOOKS] Total time spent in ROI: 59.837s
+[HOOKS] Terminating
+
+#######################################################################################
+Finished benchmark: blackscholes with configuration: 64_16_4096. 5/72
+#######################################################################################
+
+
+#######################################################################################
+Now running benchmark: blackscholes with configuration: 64_32_4096. 6/72
+#######################################################################################
+
+PARSEC Benchmark Suite Version 3.0-beta-20150206
+[HOOKS] PARSEC Hooks Version 1.2
+Num of Options: 65536
+Num of Runs: 100
+Size of data: 2621440
+[HOOKS] Entering ROI
+[HOOKS] Leaving ROI
+[HOOKS] Total time spent in ROI: 84.682s
+[HOOKS] Terminating
+
+#######################################################################################
+Finished benchmark: blackscholes with configuration: 64_32_4096. 6/72
+#######################################################################################
+
+
+#######################################################################################
+Now running benchmark: blackscholes with configuration: 64_64_4096. 7/72
+#######################################################################################
+
+PARSEC Benchmark Suite Version 3.0-beta-20150206
+[HOOKS] PARSEC Hooks Version 1.2
+Num of Options: 65536
+Num of Runs: 100
+Size of data: 2621440
+[HOOKS] Entering ROI
+[HOOKS] Leaving ROI
+[HOOKS] Total time spent in ROI: 110.410s
+[HOOKS] Terminating
+
+#######################################################################################
+Finished benchmark: blackscholes with configuration: 64_64_4096. 7/72
+#######################################################################################
+
+
+#######################################################################################
+Now running benchmark: blackscholes with configuration: 128_4_4096. 8/72
+#######################################################################################
+
+PARSEC Benchmark Suite Version 3.0-beta-20150206
+[HOOKS] PARSEC Hooks Version 1.2
+Num of Options: 65536
+Num of Runs: 100
+Size of data: 2621440
+[HOOKS] Entering ROI
+[HOOKS] Leaving ROI
+[HOOKS] Total time spent in ROI: 47.234s
+[HOOKS] Terminating
+
+#######################################################################################
+Finished benchmark: blackscholes with configuration: 128_4_4096. 8/72
+#######################################################################################
+
+
+#######################################################################################
+Now running benchmark: blackscholes with configuration: 256_4_4096. 9/72
+#######################################################################################
+
+PARSEC Benchmark Suite Version 3.0-beta-20150206
+[HOOKS] PARSEC Hooks Version 1.2
+Num of Options: 65536
+Num of Runs: 100
+Size of data: 2621440
+[HOOKS] Entering ROI
+[HOOKS] Leaving ROI
+[HOOKS] Total time spent in ROI: 47.904s
+[HOOKS] Terminating
+
+#######################################################################################
+Finished benchmark: blackscholes with configuration: 256_4_4096. 9/72
+#######################################################################################
+
+
+#######################################################################################
+Now running benchmark: bodytrack with configuration: 64_1_4096. 10/72
+#######################################################################################
+
+PARSEC Benchmark Suite Version 3.0-beta-20150206
+[HOOKS] PARSEC Hooks Version 1.2
+
+Running Single Threaded
+
+Using dataset : inputs/sequenceB_4/
+4000 particles with 5 annealing layers
+
+[HOOKS] Entering ROI
+Processing frame 0
+Processing frame 1
+Processing frame 2
+Processing frame 3
+[HOOKS] Leaving ROI
+[HOOKS] Total time spent in ROI: 115.874s
+[HOOKS] Terminating
+
+#######################################################################################
+Finished benchmark: bodytrack with configuration: 64_1_4096. 10/72
+#######################################################################################
+
+
+#######################################################################################
+Now running benchmark: bodytrack with configuration: 64_2_4096. 11/72
+#######################################################################################
+
+PARSEC Benchmark Suite Version 3.0-beta-20150206
+[HOOKS] PARSEC Hooks Version 1.2
+
+Running Single Threaded
+
+Using dataset : inputs/sequenceB_4/
+4000 particles with 5 annealing layers
+
+[HOOKS] Entering ROI
+Processing frame 0
+Processing frame 1
+Processing frame 2
+Processing frame 3
+[HOOKS] Leaving ROI
+[HOOKS] Total time spent in ROI: 119.736s
+[HOOKS] Terminating
+
+#######################################################################################
+Finished benchmark: bodytrack with configuration: 64_2_4096. 11/72
+#######################################################################################
+
+
+#######################################################################################
+Now running benchmark: bodytrack with configuration: 64_4_4096. 12/72
+#######################################################################################
+
+PARSEC Benchmark Suite Version 3.0-beta-20150206
+[HOOKS] PARSEC Hooks Version 1.2
+
+Running Single Threaded
+
+Using dataset : inputs/sequenceB_4/
+4000 particles with 5 annealing layers
+
+[HOOKS] Entering ROI
+Processing frame 0
+Processing frame 1
+Processing frame 2
+Processing frame 3
+[HOOKS] Leaving ROI
+[HOOKS] Total time spent in ROI: 125.733s
+[HOOKS] Terminating
+
+#######################################################################################
+Finished benchmark: bodytrack with configuration: 64_4_4096. 12/72
+#######################################################################################
+
+
+#######################################################################################
+Now running benchmark: bodytrack with configuration: 64_8_4096. 13/72
+#######################################################################################
+
+PARSEC Benchmark Suite Version 3.0-beta-20150206
+[HOOKS] PARSEC Hooks Version 1.2
+
+Running Single Threaded
+
+Using dataset : inputs/sequenceB_4/
+4000 particles with 5 annealing layers
+
+[HOOKS] Entering ROI
+Processing frame 0
+Processing frame 1
+Processing frame 2
+Processing frame 3
+[HOOKS] Leaving ROI
+[HOOKS] Total time spent in ROI: 131.680s
+[HOOKS] Terminating
+
+#######################################################################################
+Finished benchmark: bodytrack with configuration: 64_8_4096. 13/72
+#######################################################################################
+
+
+#######################################################################################
+Now running benchmark: bodytrack with configuration: 64_16_4096. 14/72
+#######################################################################################
+
+PARSEC Benchmark Suite Version 3.0-beta-20150206
+[HOOKS] PARSEC Hooks Version 1.2
+
+Running Single Threaded
+
+Using dataset : inputs/sequenceB_4/
+4000 particles with 5 annealing layers
+
+[HOOKS] Entering ROI
+Processing frame 0
+Processing frame 1
+Processing frame 2
+Processing frame 3
+[HOOKS] Leaving ROI
+[HOOKS] Total time spent in ROI: 162.687s
+[HOOKS] Terminating
+
+#######################################################################################
+Finished benchmark: bodytrack with configuration: 64_16_4096. 14/72
+#######################################################################################
+
+
+#######################################################################################
+Now running benchmark: bodytrack with configuration: 64_32_4096. 15/72
+#######################################################################################
+
+PARSEC Benchmark Suite Version 3.0-beta-20150206
+[HOOKS] PARSEC Hooks Version 1.2
+
+Running Single Threaded
+
+Using dataset : inputs/sequenceB_4/
+4000 particles with 5 annealing layers
+
+[HOOKS] Entering ROI
+Processing frame 0
+Processing frame 1
+Processing frame 2
+Processing frame 3
+[HOOKS] Leaving ROI
+[HOOKS] Total time spent in ROI: 199.871s
+[HOOKS] Terminating
+
+#######################################################################################
+Finished benchmark: bodytrack with configuration: 64_32_4096. 15/72
+#######################################################################################
+
+
+#######################################################################################
+Now running benchmark: bodytrack with configuration: 64_64_4096. 16/72
+#######################################################################################
+
+PARSEC Benchmark Suite Version 3.0-beta-20150206
+[HOOKS] PARSEC Hooks Version 1.2
+
+Running Single Threaded
+
+Using dataset : inputs/sequenceB_4/
+4000 particles with 5 annealing layers
+
+[HOOKS] Entering ROI
+Processing frame 0
+Processing frame 1
+Processing frame 2
+Processing frame 3
+[HOOKS] Leaving ROI
+[HOOKS] Total time spent in ROI: 292.410s
+[HOOKS] Terminating
+
+#######################################################################################
+Finished benchmark: bodytrack with configuration: 64_64_4096. 16/72
+#######################################################################################
+
+
+#######################################################################################
+Now running benchmark: bodytrack with configuration: 128_4_4096. 17/72
+#######################################################################################
+
+PARSEC Benchmark Suite Version 3.0-beta-20150206
+[HOOKS] PARSEC Hooks Version 1.2
+
+Running Single Threaded
+
+Using dataset : inputs/sequenceB_4/
+4000 particles with 5 annealing layers
+
+[HOOKS] Entering ROI
+Processing frame 0
+Processing frame 1
+Processing frame 2
+Processing frame 3
+[HOOKS] Leaving ROI
+[HOOKS] Total time spent in ROI: 121.702s
+[HOOKS] Terminating
+
+#######################################################################################
+Finished benchmark: bodytrack with configuration: 128_4_4096. 17/72
+#######################################################################################
+
+
+#######################################################################################
+Now running benchmark: bodytrack with configuration: 256_4_4096. 18/72
+#######################################################################################
+
+PARSEC Benchmark Suite Version 3.0-beta-20150206
+[HOOKS] PARSEC Hooks Version 1.2
+
+Running Single Threaded
+
+Using dataset : inputs/sequenceB_4/
+4000 particles with 5 annealing layers
+
+[HOOKS] Entering ROI
+Processing frame 0
+Processing frame 1
+Processing frame 2
+Processing frame 3
+[HOOKS] Leaving ROI
+[HOOKS] Total time spent in ROI: 123.003s
+[HOOKS] Terminating
+
+#######################################################################################
+Finished benchmark: bodytrack with configuration: 256_4_4096. 18/72
+#######################################################################################
+
+
+#######################################################################################
+Now running benchmark: canneal with configuration: 64_1_4096. 19/72
+#######################################################################################
+
+PARSEC Benchmark Suite Version 3.0-beta-20150206
+[HOOKS] PARSEC Hooks Version 1.2
+Threadcount: 1
+15000 swaps per temperature step
+start temperature: 2000
+netlist filename: inputs/400000.nets
+number of temperature steps: 128
+locs created
+locs assigned
+Just saw element: 100000
+Just saw element: 200000
+Just saw element: 300000
+Just saw element: 400000
+netlist created. 400000 elements.
+[HOOKS] Entering ROI
+[HOOKS] Leaving ROI
+Final routing is: 6.90232e+08
+[HOOKS] Total time spent in ROI: 23.627s
+[HOOKS] Terminating
+
+#######################################################################################
+Finished benchmark: canneal with configuration: 64_1_4096. 19/72
+#######################################################################################
+
+
+#######################################################################################
+Now running benchmark: canneal with configuration: 64_2_4096. 20/72
+#######################################################################################
+
+PARSEC Benchmark Suite Version 3.0-beta-20150206
+[HOOKS] PARSEC Hooks Version 1.2
+Threadcount: 1
+15000 swaps per temperature step
+start temperature: 2000
+netlist filename: inputs/400000.nets
+number of temperature steps: 128
+locs created
+locs assigned
+Just saw element: 100000
+Just saw element: 200000
+Just saw element: 300000
+Just saw element: 400000
+netlist created. 400000 elements.
+[HOOKS] Entering ROI
+[HOOKS] Leaving ROI
+Final routing is: 6.90232e+08
+[HOOKS] Total time spent in ROI: 24.617s
+[HOOKS] Terminating
+
+#######################################################################################
+Finished benchmark: canneal with configuration: 64_2_4096. 20/72
+#######################################################################################
+
+
+#######################################################################################
+Now running benchmark: canneal with configuration: 64_4_4096. 21/72
+#######################################################################################
+
+PARSEC Benchmark Suite Version 3.0-beta-20150206
+[HOOKS] PARSEC Hooks Version 1.2
+Threadcount: 1
+15000 swaps per temperature step
+start temperature: 2000
+netlist filename: inputs/400000.nets
+number of temperature steps: 128
+locs created
+locs assigned
+Just saw element: 100000
+Just saw element: 200000
+Just saw element: 300000
+Just saw element: 400000
+netlist created. 400000 elements.
+[HOOKS] Entering ROI
+[HOOKS] Leaving ROI
+Final routing is: 6.90232e+08
+[HOOKS] Total time spent in ROI: 25.705s
+[HOOKS] Terminating
+
+#######################################################################################
+Finished benchmark: canneal with configuration: 64_4_4096. 21/72
+#######################################################################################
+
+
+#######################################################################################
+Now running benchmark: canneal with configuration: 64_8_4096. 22/72
+#######################################################################################
+
+PARSEC Benchmark Suite Version 3.0-beta-20150206
+[HOOKS] PARSEC Hooks Version 1.2
+Threadcount: 1
+15000 swaps per temperature step
+start temperature: 2000
+netlist filename: inputs/400000.nets
+number of temperature steps: 128
+locs created
+locs assigned
+Just saw element: 100000
+Just saw element: 200000
+Just saw element: 300000
+Just saw element: 400000
+netlist created. 400000 elements.
+[HOOKS] Entering ROI
+[HOOKS] Leaving ROI
+Final routing is: 6.90232e+08
+[HOOKS] Total time spent in ROI: 26.859s
+[HOOKS] Terminating
+
+#######################################################################################
+Finished benchmark: canneal with configuration: 64_8_4096. 22/72
+#######################################################################################
+
+
+#######################################################################################
+Now running benchmark: canneal with configuration: 64_16_4096. 23/72
+#######################################################################################
+
+PARSEC Benchmark Suite Version 3.0-beta-20150206
+[HOOKS] PARSEC Hooks Version 1.2
+Threadcount: 1
+15000 swaps per temperature step
+start temperature: 2000
+netlist filename: inputs/400000.nets
+number of temperature steps: 128
+locs created
+locs assigned
+Just saw element: 100000
+Just saw element: 200000
+Just saw element: 300000
+Just saw element: 400000
+netlist created. 400000 elements.
+[HOOKS] Entering ROI
+[HOOKS] Leaving ROI
+Final routing is: 6.90232e+08
+[HOOKS] Total time spent in ROI: 32.626s
+[HOOKS] Terminating
+
+#######################################################################################
+Finished benchmark: canneal with configuration: 64_16_4096. 23/72
+#######################################################################################
+
+
+#######################################################################################
+Now running benchmark: canneal with configuration: 64_32_4096. 24/72
+#######################################################################################
+
+PARSEC Benchmark Suite Version 3.0-beta-20150206
+[HOOKS] PARSEC Hooks Version 1.2
+Threadcount: 1
+15000 swaps per temperature step
+start temperature: 2000
+netlist filename: inputs/400000.nets
+number of temperature steps: 128
+locs created
+locs assigned
+Just saw element: 100000
+Just saw element: 200000
+Just saw element: 300000
+Just saw element: 400000
+netlist created. 400000 elements.
+[HOOKS] Entering ROI
+[HOOKS] Leaving ROI
+Final routing is: 6.90232e+08
+[HOOKS] Total time spent in ROI: 37.721s
+[HOOKS] Terminating
+
+#######################################################################################
+Finished benchmark: canneal with configuration: 64_32_4096. 24/72
+#######################################################################################
+
+
+#######################################################################################
+Now running benchmark: canneal with configuration: 64_64_4096. 25/72
+#######################################################################################
+
+PARSEC Benchmark Suite Version 3.0-beta-20150206
+[HOOKS] PARSEC Hooks Version 1.2
+Threadcount: 1
+15000 swaps per temperature step
+start temperature: 2000
+netlist filename: inputs/400000.nets
+number of temperature steps: 128
+locs created
+locs assigned
+Just saw element: 100000
+Just saw element: 200000
+Just saw element: 300000
+Just saw element: 400000
+netlist created. 400000 elements.
+[HOOKS] Entering ROI
+[HOOKS] Leaving ROI
+Final routing is: 6.90232e+08
+[HOOKS] Total time spent in ROI: 47.215s
+[HOOKS] Terminating
+
+#######################################################################################
+Finished benchmark: canneal with configuration: 64_64_4096. 25/72
+#######################################################################################
+
+
+#######################################################################################
+Now running benchmark: canneal with configuration: 128_4_4096. 26/72
+#######################################################################################
+
+PARSEC Benchmark Suite Version 3.0-beta-20150206
+[HOOKS] PARSEC Hooks Version 1.2
+Threadcount: 1
+15000 swaps per temperature step
+start temperature: 2000
+netlist filename: inputs/400000.nets
+number of temperature steps: 128
+locs created
+locs assigned
+Just saw element: 100000
+Just saw element: 200000
+Just saw element: 300000
+Just saw element: 400000
+netlist created. 400000 elements.
+[HOOKS] Entering ROI
+[HOOKS] Leaving ROI
+Final routing is: 6.90232e+08
+[HOOKS] Total time spent in ROI: 26.246s
+[HOOKS] Terminating
+
+#######################################################################################
+Finished benchmark: canneal with configuration: 128_4_4096. 26/72
+#######################################################################################
+
+
+#######################################################################################
+Now running benchmark: canneal with configuration: 256_4_4096. 27/72
+#######################################################################################
+
+PARSEC Benchmark Suite Version 3.0-beta-20150206
+[HOOKS] PARSEC Hooks Version 1.2
+Threadcount: 1
+15000 swaps per temperature step
+start temperature: 2000
+netlist filename: inputs/400000.nets
+number of temperature steps: 128
+locs created
+locs assigned
+Just saw element: 100000
+Just saw element: 200000
+Just saw element: 300000
+Just saw element: 400000
+netlist created. 400000 elements.
+[HOOKS] Entering ROI
+[HOOKS] Leaving ROI
+Final routing is: 6.90232e+08
+[HOOKS] Total time spent in ROI: 24.860s
+[HOOKS] Terminating
+
+#######################################################################################
+Finished benchmark: canneal with configuration: 256_4_4096. 27/72
+#######################################################################################
+
+
+#######################################################################################
+Now running benchmark: fluidanimate with configuration: 64_1_4096. 28/72
+#######################################################################################
+
+PARSEC Benchmark Suite Version 3.0-beta-20150206
+[HOOKS] PARSEC Hooks Version 1.2
+Loading file "inputs/in_300K.fluid"...
+Number of cells: 135424
+Number of particles: 305809
+[HOOKS] Entering ROI
+[HOOKS] Leaving ROI
+Saving file "out.fluid"...
+[HOOKS] Total time spent in ROI: 78.251s
+[HOOKS] Terminating
+
+#######################################################################################
+Finished benchmark: fluidanimate with configuration: 64_1_4096. 28/72
+#######################################################################################
+
+
+#######################################################################################
+Now running benchmark: fluidanimate with configuration: 64_2_4096. 29/72
+#######################################################################################
+
+PARSEC Benchmark Suite Version 3.0-beta-20150206
+[HOOKS] PARSEC Hooks Version 1.2
+Loading file "inputs/in_300K.fluid"...
+Number of cells: 135424
+Number of particles: 305809
+[HOOKS] Entering ROI
+[HOOKS] Leaving ROI
+Saving file "out.fluid"...
+[HOOKS] Total time spent in ROI: 78.776s
+[HOOKS] Terminating
+
+#######################################################################################
+Finished benchmark: fluidanimate with configuration: 64_2_4096. 29/72
+#######################################################################################
+
+
+#######################################################################################
+Now running benchmark: fluidanimate with configuration: 64_4_4096. 30/72
+#######################################################################################
+
+PARSEC Benchmark Suite Version 3.0-beta-20150206
+[HOOKS] PARSEC Hooks Version 1.2
+Loading file "inputs/in_300K.fluid"...
+Number of cells: 135424
+Number of particles: 305809
+[HOOKS] Entering ROI
+[HOOKS] Leaving ROI
+Saving file "out.fluid"...
+[HOOKS] Total time spent in ROI: 81.888s
+[HOOKS] Terminating
+
+#######################################################################################
+Finished benchmark: fluidanimate with configuration: 64_4_4096. 30/72
+#######################################################################################
+
+
+#######################################################################################
+Now running benchmark: fluidanimate with configuration: 64_8_4096. 31/72
+#######################################################################################
+
+PARSEC Benchmark Suite Version 3.0-beta-20150206
+[HOOKS] PARSEC Hooks Version 1.2
+Loading file "inputs/in_300K.fluid"...
+Number of cells: 135424
+Number of particles: 305809
+[HOOKS] Entering ROI
+[HOOKS] Leaving ROI
+Saving file "out.fluid"...
+[HOOKS] Total time spent in ROI: 86.169s
+[HOOKS] Terminating
+
+#######################################################################################
+Finished benchmark: fluidanimate with configuration: 64_8_4096. 31/72
+#######################################################################################
+
+
+#######################################################################################
+Now running benchmark: fluidanimate with configuration: 64_16_4096. 32/72
+#######################################################################################
+
+PARSEC Benchmark Suite Version 3.0-beta-20150206
+[HOOKS] PARSEC Hooks Version 1.2
+Loading file "inputs/in_300K.fluid"...
+Number of cells: 135424
+Number of particles: 305809
+[HOOKS] Entering ROI
+[HOOKS] Leaving ROI
+Saving file "out.fluid"...
+[HOOKS] Total time spent in ROI: 108.401s
+[HOOKS] Terminating
+
+#######################################################################################
+Finished benchmark: fluidanimate with configuration: 64_16_4096. 32/72
+#######################################################################################
+
+
+#######################################################################################
+Now running benchmark: fluidanimate with configuration: 64_32_4096. 33/72
+#######################################################################################
+
+PARSEC Benchmark Suite Version 3.0-beta-20150206
+[HOOKS] PARSEC Hooks Version 1.2
+Loading file "inputs/in_300K.fluid"...
+Number of cells: 135424
+Number of particles: 305809
+[HOOKS] Entering ROI
+[HOOKS] Leaving ROI
+Saving file "out.fluid"...
+[HOOKS] Total time spent in ROI: 128.055s
+[HOOKS] Terminating
+
+#######################################################################################
+Finished benchmark: fluidanimate with configuration: 64_32_4096. 33/72
+#######################################################################################
+
+
+#######################################################################################
+Now running benchmark: fluidanimate with configuration: 64_64_4096. 34/72
+#######################################################################################
+
+PARSEC Benchmark Suite Version 3.0-beta-20150206
+[HOOKS] PARSEC Hooks Version 1.2
+Loading file "inputs/in_300K.fluid"...
+Number of cells: 135424
+Number of particles: 305809
+[HOOKS] Entering ROI
+[HOOKS] Leaving ROI
+Saving file "out.fluid"...
+[HOOKS] Total time spent in ROI: 173.003s
+[HOOKS] Terminating
+
+#######################################################################################
+Finished benchmark: fluidanimate with configuration: 64_64_4096. 34/72
+#######################################################################################
+
+
+#######################################################################################
+Now running benchmark: fluidanimate with configuration: 128_4_4096. 35/72
+#######################################################################################
+
+PARSEC Benchmark Suite Version 3.0-beta-20150206
+[HOOKS] PARSEC Hooks Version 1.2
+Loading file "inputs/in_300K.fluid"...
+Number of cells: 135424
+Number of particles: 305809
+[HOOKS] Entering ROI
+[HOOKS] Leaving ROI
+Saving file "out.fluid"...
+[HOOKS] Total time spent in ROI: 82.000s
+[HOOKS] Terminating
+
+#######################################################################################
+Finished benchmark: fluidanimate with configuration: 128_4_4096. 35/72
+#######################################################################################
+
+
+#######################################################################################
+Now running benchmark: fluidanimate with configuration: 256_4_4096. 36/72
+#######################################################################################
+
+PARSEC Benchmark Suite Version 3.0-beta-20150206
+[HOOKS] PARSEC Hooks Version 1.2
+Loading file "inputs/in_300K.fluid"...
+Number of cells: 135424
+Number of particles: 305809
+[HOOKS] Entering ROI
+[HOOKS] Leaving ROI
+Saving file "out.fluid"...
+[HOOKS] Total time spent in ROI: 81.262s
+[HOOKS] Terminating
+
+#######################################################################################
+Finished benchmark: fluidanimate with configuration: 256_4_4096. 36/72
+#######################################################################################
+
+
+#######################################################################################
+Now running benchmark: freqmine with configuration: 64_1_4096. 37/72
+#######################################################################################
+
+PARSEC Benchmark Suite Version 3.0-beta-20150206
+[HOOKS] PARSEC Hooks Version 1.2
+[HOOKS] Entering ROI
+transaction number is 990002
+[HOOKS] Leaving ROI
+1548
+13483
+46649
+131381
+415489
+1239344
+2985564
+5696308
+8709873
+10789491
+10902648
+9011183
+6094236
+3374161
+1530954
+564958
+165173
+36535
+5727
+578
+33
+1
+the data preparation cost 33.978261 seconds, the FPgrowth cost 1616.843553 seconds
+[HOOKS] Total time spent in ROI: 1650.763s
+[HOOKS] Terminating
+E:  Writepid failed: No such process
+
+#######################################################################################
+Finished benchmark: freqmine with configuration: 64_1_4096. 37/72
+#######################################################################################
+
+
+#######################################################################################
+Now running benchmark: freqmine with configuration: 64_2_4096. 38/72
+#######################################################################################
+
+PARSEC Benchmark Suite Version 3.0-beta-20150206
+[HOOKS] PARSEC Hooks Version 1.2
+[HOOKS] Entering ROI
+transaction number is 990002
+[HOOKS] Leaving ROI
+1548
+13483
+46649
+131381
+415489
+1239344
+2985564
+5696308
+8709873
+10789491
+10902648
+9011183
+6094236
+3374161
+1530954
+564958
+165173
+36535
+5727
+578
+33
+1
+the data preparation cost 36.009171 seconds, the FPgrowth cost 2100.205535 seconds
+[HOOKS] Total time spent in ROI: 2136.141s
+[HOOKS] Terminating
+
+#######################################################################################
+Finished benchmark: freqmine with configuration: 64_2_4096. 38/72
+#######################################################################################
+
+
+#######################################################################################
+Now running benchmark: freqmine with configuration: 64_4_4096. 39/72
+#######################################################################################
+
+PARSEC Benchmark Suite Version 3.0-beta-20150206
+[HOOKS] PARSEC Hooks Version 1.2
+[HOOKS] Entering ROI
+transaction number is 990002
+[HOOKS] Leaving ROI
+1548
+13483
+46649
+131381
+415489
+1239344
+2985564
+5696308
+8709873
+10789491
+10902648
+9011183
+6094236
+3374161
+1530954
+564958
+165173
+36535
+5727
+578
+33
+1
+the data preparation cost 39.565402 seconds, the FPgrowth cost 2134.634411 seconds
+[HOOKS] Total time spent in ROI: 2174.136s
+[HOOKS] Terminating
+
+#######################################################################################
+Finished benchmark: freqmine with configuration: 64_4_4096. 39/72
+#######################################################################################
+
+
+#######################################################################################
+Now running benchmark: freqmine with configuration: 64_8_4096. 40/72
+#######################################################################################
+
+PARSEC Benchmark Suite Version 3.0-beta-20150206
+[HOOKS] PARSEC Hooks Version 1.2
+[HOOKS] Entering ROI
+transaction number is 990002
+[HOOKS] Leaving ROI
+1548
+13483
+46649
+131381
+415489
+1239344
+2985564
+5696308
+8709873
+10789491
+10902648
+9011183
+6094236
+3374161
+1530954
+564958
+165173
+36535
+5727
+578
+33
+1
+the data preparation cost 38.605639 seconds, the FPgrowth cost 2215.181516 seconds
+[HOOKS] Total time spent in ROI: 2253.722s
+[HOOKS] Terminating
+
+#######################################################################################
+Finished benchmark: freqmine with configuration: 64_8_4096. 40/72
+#######################################################################################
+
+
+#######################################################################################
+Now running benchmark: freqmine with configuration: 64_16_4096. 41/72
+#######################################################################################
+
+PARSEC Benchmark Suite Version 3.0-beta-20150206
+[HOOKS] PARSEC Hooks Version 1.2
+[HOOKS] Entering ROI
+transaction number is 990002
+[HOOKS] Leaving ROI
+1548
+13483
+46649
+131381
+415489
+1239344
+2985564
+5696308
+8709873
+10789491
+10902648
+9011183
+6094236
+3374161
+1530954
+564958
+165173
+36535
+5727
+578
+33
+1
+the data preparation cost 45.737206 seconds, the FPgrowth cost 2407.641668 seconds
+[HOOKS] Total time spent in ROI: 2453.324s
+[HOOKS] Terminating
+
+#######################################################################################
+Finished benchmark: freqmine with configuration: 64_16_4096. 41/72
+#######################################################################################
+
+
+#######################################################################################
+Now running benchmark: freqmine with configuration: 64_32_4096. 42/72
+#######################################################################################
+
+PARSEC Benchmark Suite Version 3.0-beta-20150206
+[HOOKS] PARSEC Hooks Version 1.2
+[HOOKS] Entering ROI
+transaction number is 990002
+[HOOKS] Leaving ROI
+1548
+13483
+46649
+131381
+415489
+1239344
+2985564
+5696308
+8709873
+10789491
+10902648
+9011183
+6094236
+3374161
+1530954
+564958
+165173
+36535
+5727
+578
+33
+1
+the data preparation cost 56.959935 seconds, the FPgrowth cost 2855.131515 seconds
+[HOOKS] Total time spent in ROI: 2912.034s
+[HOOKS] Terminating
+
+#######################################################################################
+Finished benchmark: freqmine with configuration: 64_32_4096. 42/72
+#######################################################################################
+
+
+#######################################################################################
+Now running benchmark: freqmine with configuration: 64_64_4096. 43/72
+#######################################################################################
+
+PARSEC Benchmark Suite Version 3.0-beta-20150206
+[HOOKS] PARSEC Hooks Version 1.2
+[HOOKS] Entering ROI
+transaction number is 990002
+[HOOKS] Leaving ROI
+1548
+13483
+46649
+131381
+415489
+1239344
+2985564
+5696308
+8709873
+10789491
+10902648
+9011183
+6094236
+3374161
+1530954
+564958
+165173
+36535
+5727
+578
+33
+1
+the data preparation cost 87.393018 seconds, the FPgrowth cost 2578.470609 seconds
+[HOOKS] Total time spent in ROI: 2665.797s
+[HOOKS] Terminating
+
+#######################################################################################
+Finished benchmark: freqmine with configuration: 64_64_4096. 43/72
+#######################################################################################
+
+
+#######################################################################################
+Now running benchmark: freqmine with configuration: 128_4_4096. 44/72
+#######################################################################################
+
+PARSEC Benchmark Suite Version 3.0-beta-20150206
+[HOOKS] PARSEC Hooks Version 1.2
+[HOOKS] Entering ROI
+transaction number is 990002
+[HOOKS] Leaving ROI
+1548
+13483
+46649
+131381
+415489
+1239344
+2985564
+5696308
+8709873
+10789491
+10902648
+9011183
+6094236
+3374161
+1530954
+564958
+165173
+36535
+5727
+578
+33
+1
+the data preparation cost 37.064961 seconds, the FPgrowth cost 998.066435 seconds
+[HOOKS] Total time spent in ROI: 1035.072s
+[HOOKS] Terminating
+
+#######################################################################################
+Finished benchmark: freqmine with configuration: 128_4_4096. 44/72
+#######################################################################################
+
+
+#######################################################################################
+Now running benchmark: freqmine with configuration: 256_4_4096. 45/72
+#######################################################################################
+
+PARSEC Benchmark Suite Version 3.0-beta-20150206
+[HOOKS] PARSEC Hooks Version 1.2
+[HOOKS] Entering ROI
+transaction number is 990002
+[HOOKS] Leaving ROI
+1548
+13483
+46649
+131381
+415489
+1239344
+2985564
+5696308
+8709873
+10789491
+10902648
+9011183
+6094236
+3374161
+1530954
+564958
+165173
+36535
+5727
+578
+33
+1
+the data preparation cost 35.792827 seconds, the FPgrowth cost 1007.194908 seconds
+[HOOKS] Total time spent in ROI: 1042.929s
+[HOOKS] Terminating
+
+#######################################################################################
+Finished benchmark: freqmine with configuration: 256_4_4096. 45/72
+#######################################################################################
+
+
+#######################################################################################
+Now running benchmark: rtview with configuration: 64_1_4096. 46/72
+#######################################################################################
+
+this =0xb50200
+PARSEC Benchmark Suite Version 3.0-beta-20150206
+[HOOKS] PARSEC Hooks Version 1.2
+initializing LRT ray tracer ...
+default BVH builder : binnedalldimssavespace
+
+
+Options:  automove = ;
+    files = inputs/happy_buddha.obj;
+   frames = 3;
+ nthreads = 1;
+      res = [1920, 1080];
+
+Using memory framebuffer...
+Adding obj file: inputs/happy_buddha.obj
+Using auto camera...
+num nodes in scene graph 1
+adding 543522 vertices
+adding 1087425 triangles
+finalizing geometry
+vertices            543522 (6369.4 KB)
+triangles           1087425 (12743.3 KB)
+texture coordinates 0 (0 KB)
+No materials -> create dummy material
+building index
+using BVH builder default
+build time 1.25638
+done
+sceneAABB =[[[-0.04615,0.049738,-0.047301,0] ],[[0.035226,0.24777,0.034077,0] ]]
+Rendering 3 frames... 
+[HOOKS] Entering ROI
+[HOOKS] Leaving ROI
+Done
+[HOOKS] Total time spent in ROI: 98.818s
+[HOOKS] Terminating
+
+#######################################################################################
+Finished benchmark: rtview with configuration: 64_1_4096. 46/72
+#######################################################################################
+
+
+#######################################################################################
+Now running benchmark: rtview with configuration: 64_2_4096. 47/72
+#######################################################################################
+
+this =0xb50200
+PARSEC Benchmark Suite Version 3.0-beta-20150206
+[HOOKS] PARSEC Hooks Version 1.2
+initializing LRT ray tracer ...
+default BVH builder : binnedalldimssavespace
+
+
+Options:  automove = ;
+    files = inputs/happy_buddha.obj;
+   frames = 3;
+ nthreads = 1;
+      res = [1920, 1080];
+
+Using memory framebuffer...
+Adding obj file: inputs/happy_buddha.obj
+Using auto camera...
+num nodes in scene graph 1
+adding 543522 vertices
+adding 1087425 triangles
+finalizing geometry
+vertices            543522 (6369.4 KB)
+triangles           1087425 (12743.3 KB)
+texture coordinates 0 (0 KB)
+No materials -> create dummy material
+building index
+using BVH builder default
+build time 1.25809
+done
+sceneAABB =[[[-0.04615,0.049738,-0.047301,0] ],[[0.035226,0.24777,0.034077,0] ]]
+Rendering 3 frames... 
+[HOOKS] Entering ROI
+[HOOKS] Leaving ROI
+Done
+[HOOKS] Total time spent in ROI: 103.654s
+[HOOKS] Terminating
+
+#######################################################################################
+Finished benchmark: rtview with configuration: 64_2_4096. 47/72
+#######################################################################################
+
+
+#######################################################################################
+Now running benchmark: rtview with configuration: 64_4_4096. 48/72
+#######################################################################################
+
+this =0xb50200
+PARSEC Benchmark Suite Version 3.0-beta-20150206
+[HOOKS] PARSEC Hooks Version 1.2
+initializing LRT ray tracer ...
+default BVH builder : binnedalldimssavespace
+
+
+Options:  automove = ;
+    files = inputs/happy_buddha.obj;
+   frames = 3;
+ nthreads = 1;
+      res = [1920, 1080];
+
+Using memory framebuffer...
+Adding obj file: inputs/happy_buddha.obj
+Using auto camera...
+num nodes in scene graph 1
+adding 543522 vertices
+adding 1087425 triangles
+finalizing geometry
+vertices            543522 (6369.4 KB)
+triangles           1087425 (12743.3 KB)
+texture coordinates 0 (0 KB)
+No materials -> create dummy material
+building index
+using BVH builder default
+build time 1.27645
+done
+sceneAABB =[[[-0.04615,0.049738,-0.047301,0] ],[[0.035226,0.24777,0.034077,0] ]]
+Rendering 3 frames... 
+[HOOKS] Entering ROI
+[HOOKS] Leaving ROI
+Done
+[HOOKS] Total time spent in ROI: 105.804s
+[HOOKS] Terminating
+
+#######################################################################################
+Finished benchmark: rtview with configuration: 64_4_4096. 48/72
+#######################################################################################
+
+
+#######################################################################################
+Now running benchmark: rtview with configuration: 64_8_4096. 49/72
+#######################################################################################
+
+this =0xb50200
+PARSEC Benchmark Suite Version 3.0-beta-20150206
+[HOOKS] PARSEC Hooks Version 1.2
+initializing LRT ray tracer ...
+default BVH builder : binnedalldimssavespace
+
+
+Options:  automove = ;
+    files = inputs/happy_buddha.obj;
+   frames = 3;
+ nthreads = 1;
+      res = [1920, 1080];
+
+Using memory framebuffer...
+Adding obj file: inputs/happy_buddha.obj
+Using auto camera...
+num nodes in scene graph 1
+adding 543522 vertices
+adding 1087425 triangles
+finalizing geometry
+vertices            543522 (6369.4 KB)
+triangles           1087425 (12743.3 KB)
+texture coordinates 0 (0 KB)
+No materials -> create dummy material
+building index
+using BVH builder default
+build time 1.26219
+done
+sceneAABB =[[[-0.04615,0.049738,-0.047301,0] ],[[0.035226,0.24777,0.034077,0] ]]
+Rendering 3 frames... 
+[HOOKS] Entering ROI
+[HOOKS] Leaving ROI
+Done
+[HOOKS] Total time spent in ROI: 111.210s
+[HOOKS] Terminating
+
+#######################################################################################
+Finished benchmark: rtview with configuration: 64_8_4096. 49/72
+#######################################################################################
+
+
+#######################################################################################
+Now running benchmark: rtview with configuration: 64_16_4096. 50/72
+#######################################################################################
+
+this =0xb50200
+PARSEC Benchmark Suite Version 3.0-beta-20150206
+[HOOKS] PARSEC Hooks Version 1.2
+initializing LRT ray tracer ...
+default BVH builder : binnedalldimssavespace
+
+
+Options:  automove = ;
+    files = inputs/happy_buddha.obj;
+   frames = 3;
+ nthreads = 1;
+      res = [1920, 1080];
+
+Using memory framebuffer...
+Adding obj file: inputs/happy_buddha.obj
+Using auto camera...
+num nodes in scene graph 1
+adding 543522 vertices
+adding 1087425 triangles
+finalizing geometry
+vertices            543522 (6369.4 KB)
+triangles           1087425 (12743.3 KB)
+texture coordinates 0 (0 KB)
+No materials -> create dummy material
+building index
+using BVH builder default
+build time 1.26191
+done
+sceneAABB =[[[-0.04615,0.049738,-0.047301,0] ],[[0.035226,0.24777,0.034077,0] ]]
+Rendering 3 frames... 
+[HOOKS] Entering ROI
+[HOOKS] Leaving ROI
+Done
+[HOOKS] Total time spent in ROI: 142.114s
+[HOOKS] Terminating
+
+#######################################################################################
+Finished benchmark: rtview with configuration: 64_16_4096. 50/72
+#######################################################################################
+
+
+#######################################################################################
+Now running benchmark: rtview with configuration: 64_32_4096. 51/72
+#######################################################################################
+
+this =0xb50200
+PARSEC Benchmark Suite Version 3.0-beta-20150206
+[HOOKS] PARSEC Hooks Version 1.2
+initializing LRT ray tracer ...
+default BVH builder : binnedalldimssavespace
+
+
+Options:  automove = ;
+    files = inputs/happy_buddha.obj;
+   frames = 3;
+ nthreads = 1;
+      res = [1920, 1080];
+
+Using memory framebuffer...
+Adding obj file: inputs/happy_buddha.obj
+Using auto camera...
+num nodes in scene graph 1
+adding 543522 vertices
+adding 1087425 triangles
+finalizing geometry
+vertices            543522 (6369.4 KB)
+triangles           1087425 (12743.3 KB)
+texture coordinates 0 (0 KB)
+No materials -> create dummy material
+building index
+using BVH builder default
+build time 1.29625
+done
+sceneAABB =[[[-0.04615,0.049738,-0.047301,0] ],[[0.035226,0.24777,0.034077,0] ]]
+Rendering 3 frames... 
+[HOOKS] Entering ROI
+[HOOKS] Leaving ROI
+Done
+[HOOKS] Total time spent in ROI: 213.728s
+[HOOKS] Terminating
+
+#######################################################################################
+Finished benchmark: rtview with configuration: 64_32_4096. 51/72
+#######################################################################################
+
+
+#######################################################################################
+Now running benchmark: rtview with configuration: 64_64_4096. 52/72
+#######################################################################################
+
+this =0xb50200
+PARSEC Benchmark Suite Version 3.0-beta-20150206
+[HOOKS] PARSEC Hooks Version 1.2
+initializing LRT ray tracer ...
+default BVH builder : binnedalldimssavespace
+
+
+Options:  automove = ;
+    files = inputs/happy_buddha.obj;
+   frames = 3;
+ nthreads = 1;
+      res = [1920, 1080];
+
+Using memory framebuffer...
+Adding obj file: inputs/happy_buddha.obj
+Using auto camera...
+num nodes in scene graph 1
+adding 543522 vertices
+adding 1087425 triangles
+finalizing geometry
+vertices            543522 (6369.4 KB)
+triangles           1087425 (12743.3 KB)
+texture coordinates 0 (0 KB)
+No materials -> create dummy material
+building index
+using BVH builder default
+build time 2.47813
+done
+sceneAABB =[[[-0.04615,0.049738,-0.047301,0] ],[[0.035226,0.24777,0.034077,0] ]]
+Rendering 3 frames... 
+[HOOKS] Entering ROI
+[HOOKS] Leaving ROI
+Done
+[HOOKS] Total time spent in ROI: 376.833s
+[HOOKS] Terminating
+
+#######################################################################################
+Finished benchmark: rtview with configuration: 64_64_4096. 52/72
+#######################################################################################
+
+
+#######################################################################################
+Now running benchmark: rtview with configuration: 128_4_4096. 53/72
+#######################################################################################
+
+this =0xb50200
+PARSEC Benchmark Suite Version 3.0-beta-20150206
+[HOOKS] PARSEC Hooks Version 1.2
+initializing LRT ray tracer ...
+default BVH builder : binnedalldimssavespace
+
+
+Options:  automove = ;
+    files = inputs/happy_buddha.obj;
+   frames = 3;
+ nthreads = 1;
+      res = [1920, 1080];
+
+Using memory framebuffer...
+Adding obj file: inputs/happy_buddha.obj
+Using auto camera...
+num nodes in scene graph 1
+adding 543522 vertices
+adding 1087425 triangles
+finalizing geometry
+vertices            543522 (6369.4 KB)
+triangles           1087425 (12743.3 KB)
+texture coordinates 0 (0 KB)
+No materials -> create dummy material
+building index
+using BVH builder default
+build time 1.32126
+done
+sceneAABB =[[[-0.04615,0.049738,-0.047301,0] ],[[0.035226,0.24777,0.034077,0] ]]
+Rendering 3 frames... 
+[HOOKS] Entering ROI
+[HOOKS] Leaving ROI
+Done
+[HOOKS] Total time spent in ROI: 108.732s
+[HOOKS] Terminating
+
+#######################################################################################
+Finished benchmark: rtview with configuration: 128_4_4096. 53/72
+#######################################################################################
+
+
+#######################################################################################
+Now running benchmark: rtview with configuration: 256_4_4096. 54/72
+#######################################################################################
+
+this =0xb50200
+PARSEC Benchmark Suite Version 3.0-beta-20150206
+[HOOKS] PARSEC Hooks Version 1.2
+initializing LRT ray tracer ...
+default BVH builder : binnedalldimssavespace
+
+
+Options:  automove = ;
+    files = inputs/happy_buddha.obj;
+   frames = 3;
+ nthreads = 1;
+      res = [1920, 1080];
+
+Using memory framebuffer...
+Adding obj file: inputs/happy_buddha.obj
+Using auto camera...
+num nodes in scene graph 1
+adding 543522 vertices
+adding 1087425 triangles
+finalizing geometry
+vertices            543522 (6369.4 KB)
+triangles           1087425 (12743.3 KB)
+texture coordinates 0 (0 KB)
+No materials -> create dummy material
+building index
+using BVH builder default
+build time 1.30039
+done
+sceneAABB =[[[-0.04615,0.049738,-0.047301,0] ],[[0.035226,0.24777,0.034077,0] ]]
+Rendering 3 frames... 
+[HOOKS] Entering ROI
+[HOOKS] Leaving ROI
+Done
+[HOOKS] Total time spent in ROI: 107.479s
+[HOOKS] Terminating
+
+#######################################################################################
+Finished benchmark: rtview with configuration: 256_4_4096. 54/72
+#######################################################################################
+
+
+#######################################################################################
+Now running benchmark: swaptions with configuration: 64_1_4096. 55/72
+#######################################################################################
+
+PARSEC Benchmark Suite Version 3.0-beta-20150206
+[HOOKS] PARSEC Hooks Version 1.2
+Number of Simulations: 40000,  Number of threads: 1 Number of swaptions: 64
+[HOOKS] Entering ROI
+[HOOKS] Leaving ROI
+[HOOKS] Total time spent in ROI: 362.906s
+[HOOKS] Terminating
+
+#######################################################################################
+Finished benchmark: swaptions with configuration: 64_1_4096. 55/72
+#######################################################################################
+
+
+#######################################################################################
+Now running benchmark: swaptions with configuration: 64_2_4096. 56/72
+#######################################################################################
+
+PARSEC Benchmark Suite Version 3.0-beta-20150206
+[HOOKS] PARSEC Hooks Version 1.2
+Number of Simulations: 40000,  Number of threads: 1 Number of swaptions: 64
+[HOOKS] Entering ROI
+[HOOKS] Leaving ROI
+[HOOKS] Total time spent in ROI: 376.112s
+[HOOKS] Terminating
+
+#######################################################################################
+Finished benchmark: swaptions with configuration: 64_2_4096. 56/72
+#######################################################################################
+
+
+#######################################################################################
+Now running benchmark: swaptions with configuration: 64_4_4096. 57/72
+#######################################################################################
+
+PARSEC Benchmark Suite Version 3.0-beta-20150206
+[HOOKS] PARSEC Hooks Version 1.2
+Number of Simulations: 40000,  Number of threads: 1 Number of swaptions: 64
+[HOOKS] Entering ROI
+[HOOKS] Leaving ROI
+[HOOKS] Total time spent in ROI: 385.033s
+[HOOKS] Terminating
+
+#######################################################################################
+Finished benchmark: swaptions with configuration: 64_4_4096. 57/72
+#######################################################################################
+
+
+#######################################################################################
+Now running benchmark: swaptions with configuration: 64_8_4096. 58/72
+#######################################################################################
+
+PARSEC Benchmark Suite Version 3.0-beta-20150206
+[HOOKS] PARSEC Hooks Version 1.2
+Number of Simulations: 40000,  Number of threads: 1 Number of swaptions: 64
+[HOOKS] Entering ROI
+[HOOKS] Leaving ROI
+[HOOKS] Total time spent in ROI: 415.225s
+[HOOKS] Terminating
+
+#######################################################################################
+Finished benchmark: swaptions with configuration: 64_8_4096. 58/72
+#######################################################################################
+
+
+#######################################################################################
+Now running benchmark: swaptions with configuration: 64_16_4096. 59/72
+#######################################################################################
+
+PARSEC Benchmark Suite Version 3.0-beta-20150206
+[HOOKS] PARSEC Hooks Version 1.2
+Number of Simulations: 40000,  Number of threads: 1 Number of swaptions: 64
+[HOOKS] Entering ROI
+[HOOKS] Leaving ROI
+[HOOKS] Total time spent in ROI: 490.913s
+[HOOKS] Terminating
+
+#######################################################################################
+Finished benchmark: swaptions with configuration: 64_16_4096. 59/72
+#######################################################################################
+
+
+#######################################################################################
+Now running benchmark: swaptions with configuration: 64_32_4096. 60/72
+#######################################################################################
+
+PARSEC Benchmark Suite Version 3.0-beta-20150206
+[HOOKS] PARSEC Hooks Version 1.2
+Number of Simulations: 40000,  Number of threads: 1 Number of swaptions: 64
+[HOOKS] Entering ROI
+[HOOKS] Leaving ROI
+[HOOKS] Total time spent in ROI: 618.536s
+[HOOKS] Terminating
+
+#######################################################################################
+Finished benchmark: swaptions with configuration: 64_32_4096. 60/72
+#######################################################################################
+
+
+#######################################################################################
+Now running benchmark: swaptions with configuration: 64_64_4096. 61/72
+#######################################################################################
+
+PARSEC Benchmark Suite Version 3.0-beta-20150206
+[HOOKS] PARSEC Hooks Version 1.2
+Number of Simulations: 40000,  Number of threads: 1 Number of swaptions: 64
+[HOOKS] Entering ROI
+[HOOKS] Leaving ROI
+[HOOKS] Total time spent in ROI: 865.766s
+[HOOKS] Terminating
+
+#######################################################################################
+Finished benchmark: swaptions with configuration: 64_64_4096. 61/72
+#######################################################################################
+
+
+#######################################################################################
+Now running benchmark: swaptions with configuration: 128_4_4096. 62/72
+#######################################################################################
+
+PARSEC Benchmark Suite Version 3.0-beta-20150206
+[HOOKS] PARSEC Hooks Version 1.2
+Number of Simulations: 40000,  Number of threads: 1 Number of swaptions: 64
+[HOOKS] Entering ROI
+[HOOKS] Leaving ROI
+[HOOKS] Total time spent in ROI: 396.183s
+[HOOKS] Terminating
+
+#######################################################################################
+Finished benchmark: swaptions with configuration: 128_4_4096. 62/72
+#######################################################################################
+
+
+#######################################################################################
+Now running benchmark: swaptions with configuration: 256_4_4096. 63/72
+#######################################################################################
+
+PARSEC Benchmark Suite Version 3.0-beta-20150206
+[HOOKS] PARSEC Hooks Version 1.2
+Number of Simulations: 40000,  Number of threads: 1 Number of swaptions: 64
+[HOOKS] Entering ROI
+[HOOKS] Leaving ROI
+[HOOKS] Total time spent in ROI: 375.521s
+[HOOKS] Terminating
+
+#######################################################################################
+Finished benchmark: swaptions with configuration: 256_4_4096. 63/72
+#######################################################################################
+
+
+#######################################################################################
+Now running benchmark: streamcluster with configuration: 64_1_4096. 64/72
+#######################################################################################
+
+[HOOKS] PARSEC Hooks Version 1.2
+[HOOKS] Entering ROI
+[HOOKS] Leaving ROI
+[HOOKS] Total time spent in ROI: 293.909s
+[HOOKS] Terminating
+
+#######################################################################################
+Finished benchmark: streamcluster with configuration: 64_1_4096. 64/72
+#######################################################################################
+
+
+#######################################################################################
+Now running benchmark: streamcluster with configuration: 64_2_4096. 65/72
+#######################################################################################
+
+[HOOKS] PARSEC Hooks Version 1.2
+[HOOKS] Entering ROI
+[HOOKS] Leaving ROI
+[HOOKS] Total time spent in ROI: 306.277s
+[HOOKS] Terminating
+
+#######################################################################################
+Finished benchmark: streamcluster with configuration: 64_2_4096. 65/72
+#######################################################################################
+
+
+#######################################################################################
+Now running benchmark: streamcluster with configuration: 64_4_4096. 66/72
+#######################################################################################
+
+[HOOKS] PARSEC Hooks Version 1.2
+[HOOKS] Entering ROI
+[HOOKS] Leaving ROI
+[HOOKS] Total time spent in ROI: 316.927s
+[HOOKS] Terminating
+
+#######################################################################################
+Finished benchmark: streamcluster with configuration: 64_4_4096. 66/72
+#######################################################################################
+
+
+#######################################################################################
+Now running benchmark: streamcluster with configuration: 64_8_4096. 67/72
+#######################################################################################
+
+[HOOKS] PARSEC Hooks Version 1.2
+[HOOKS] Entering ROI
+[HOOKS] Leaving ROI
+[HOOKS] Total time spent in ROI: 342.615s
+[HOOKS] Terminating
+
+#######################################################################################
+Finished benchmark: streamcluster with configuration: 64_8_4096. 67/72
+#######################################################################################
+
+
+#######################################################################################
+Now running benchmark: streamcluster with configuration: 64_16_4096. 68/72
+#######################################################################################
+
+[HOOKS] PARSEC Hooks Version 1.2
+[HOOKS] Entering ROI
+[HOOKS] Leaving ROI
+[HOOKS] Total time spent in ROI: 407.667s
+[HOOKS] Terminating
+
+#######################################################################################
+Finished benchmark: streamcluster with configuration: 64_16_4096. 68/72
+#######################################################################################
+
+
+#######################################################################################
+Now running benchmark: streamcluster with configuration: 64_32_4096. 69/72
+#######################################################################################
+
+[HOOKS] PARSEC Hooks Version 1.2
+[HOOKS] Entering ROI
+[HOOKS] Leaving ROI
+[HOOKS] Total time spent in ROI: 511.718s
+[HOOKS] Terminating
+
+#######################################################################################
+Finished benchmark: streamcluster with configuration: 64_32_4096. 69/72
+#######################################################################################
+
+
+#######################################################################################
+Now running benchmark: streamcluster with configuration: 64_64_4096. 70/72
+#######################################################################################
+
+[HOOKS] PARSEC Hooks Version 1.2
+[HOOKS] Entering ROI
+[HOOKS] Leaving ROI
+[HOOKS] Total time spent in ROI: 723.455s
+[HOOKS] Terminating
+
+#######################################################################################
+Finished benchmark: streamcluster with configuration: 64_64_4096. 70/72
+#######################################################################################
+
+
+#######################################################################################
+Now running benchmark: streamcluster with configuration: 128_4_4096. 71/72
+#######################################################################################
+
+[HOOKS] PARSEC Hooks Version 1.2
+[HOOKS] Entering ROI
+[HOOKS] Leaving ROI
+[HOOKS] Total time spent in ROI: 313.119s
+[HOOKS] Terminating
+
+#######################################################################################
+Finished benchmark: streamcluster with configuration: 128_4_4096. 71/72
+#######################################################################################
+
+
+#######################################################################################
+Now running benchmark: streamcluster with configuration: 256_4_4096. 72/72
+#######################################################################################
+
+[HOOKS] PARSEC Hooks Version 1.2
+[HOOKS] Entering ROI
+[HOOKS] Leaving ROI
+[HOOKS] Total time spent in ROI: 313.951s
+[HOOKS] Terminating
+
+#######################################################################################
+Finished benchmark: streamcluster with configuration: 256_4_4096. 72/72
+#######################################################################################
+
+
